@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E83,100:B7A57A&height=170&section=header&text=Andre&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20University%20of%20Washington&descSize=18&descAlignY=60" width="100%" alt="Andre - Computer Science, University of Washington"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E83,100:B7A57A&height=170&section=header&text=Andre&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20University%20of%20Washington&descSize=18&descAlignY=60" width="100%" alt="Andre Prasetya- Computer Science, University of Washington"/>
 
 <!-- TODO: swap "Andre" above for your full name (keep %20 for spaces in the URL) -->
 
 ### 👋 About me
 
-First-year Computer Science student at the **University of Washington**. I work across software engineering and machine learning, and I'm interested in where technical work meets consulting: turning a messy problem into something a client can actually use.
+Sophmore Computer Science student at the **University of Washington**. I work across software engineering and machine learning, and I'm interested in where technical work meets consulting: turning a messy problem into something a client can actually use.
 
 - 🏢 Member of UW's **Business Impact Group (BIG)** consulting program
 - 🧪 Building ML projects on Databricks (XGBoost, SHAP)
-- 🔧 Previously worked on backend systems in Java Spring Boot and NATS at a biometric technology firm
+- 🔧 Previously worked on full stack apps at a biometric technology firm
 - 📫 Open to internships. Reach me below.
 
 <p>
