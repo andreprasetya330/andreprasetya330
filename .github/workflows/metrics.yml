@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Refresh daily
+  schedule: [{cron: "0 8 * * *"}]
+  # Run manually from the Actions tab, and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Personal access token saved as a repo secret named METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: andreprasetya330
+          template: classic
+          filename: github-metrics.svg
+          config_timezone: America/Los_Angeles
+
+          # Header, recent activity, community stats, repositories
+          base: header, activity, community, repositories, metadata
+
+          # Contribution calendar (3D view)
+          plugin_isometric: yes
+          plugin_isometric_duration: full-year
+
+          # Top languages
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
