@@ -9,6 +9,9 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    # Lets the workflow commit the generated image back to the repo
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -23,8 +26,8 @@ jobs:
           base: header, activity, community, repositories, metadata
 
           # Contribution calendar (3D view)
-          plugin_isometric: yes
-          plugin_isometric_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           # Top languages
           plugin_languages: yes
