@@ -1,19 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E83,100:B7A57A&height=170&section=header&text=Andre&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20University%20of%20Washington&descSize=18&descAlignY=60" width="100%" alt="Andre Prasetya- Computer Science, University of Washington"/>
-
-<!-- TODO: swap "Andre" above for your full name (keep %20 for spaces in the URL) -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E83,100:B7A57A&height=170&section=header&text=Andre%20Prasetya&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20University%20of%20Washington&descSize=18&descAlignY=60" width="100%" alt="Andre Prasetya - Computer Science, University of Washington"/>
 
 ### 👋 About me
 
-Sophmore Computer Science student at the **University of Washington**. I work across software engineering and machine learning, and I'm interested in where technical work meets consulting: turning a messy problem into something a client can actually use.
+Sophomore Computer Science student at the **University of Washington**. I work across software engineering and machine learning, and I'm interested in where technical work meets consulting: turning complex problems into practical solutions that people can actually use.
 
 - 🏢 Member of UW's **Business Impact Group (BIG)** consulting program
-- 🧪 Building ML projects on Databricks (XGBoost, SHAP)
-- 🔧 Previously worked on full stack apps at a biometric technology firm
-- 📫 Open to internships. Reach me below.
+- 🧪 Building machine learning projects using XGBoost, Databricks, and SHAP
+- 🔧 Previously worked on full-stack applications at a biometric technology firm
+- 🏈 Interested in applying AI and machine learning to real-world problems, including sports analytics
+- 📫 Open to internships and new opportunities. Reach me below!
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-4B2E83?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/andre-prasetya-804143207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:andre.pra303@gmail.com"><img src="https://img.shields.io/badge/Email-4B2E83?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -29,6 +28,9 @@ Sophmore Computer Science student at the **University of Washington**. I work ac
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/SHAP-222222?style=flat-square" alt="SHAP"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" alt="ElevenLabs"/>
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" alt="NATS"/>
 </p>
 
@@ -38,22 +40,22 @@ Sophmore Computer Science student at the **University of Washington**. I work ac
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Signal** | AI-powered social media marketing platform built for Arkus Innovation Studios. Six specialized AI agents with publishing integrations for LinkedIn, Instagram, Facebook, Threads, and X. | Next.js 14, FastAPI, LangGraph, Claude |
-| **WeatherYield Intelligence** | Machine learning project predicting outcomes from weather data, with SHAP analysis to explain what drives the model. | XGBoost, Databricks, SHAP |
-| [**DataBricks_Hackathon2026**](https://github.com/andreprasetya330/DataBricks_Hackathon2026) | Databricks hackathon entry. | Databricks |
-| [**gridiron-vision**](https://github.com/andreprasetya330/gridiron-vision) | <!-- TODO: one-line description --> | Python |
-
-<!-- TODO: edit the WeatherYield description to match what the model actually predicts, and the gridiron-vision row. -->
+| **Signal — Arkus Innovation Studios** | Product consulting work for Arkus Innovation Studios on an AI-powered social media marketing platform. Helps teams develop campaign ideas, generate on-brand post and image variants, and schedule or publish approved content across social platforms. | Next.js, FastAPI, LangGraph, Claude, OpenAI, Supabase |
+| **Learnie AI** | Interactive learning platform and my **DubHacks 2025** entry. Developed a full-stack app that generates AI-driven lectures and games, integrates ChatGPT, Gemini, and ElevenLabs APIs for personalized content, and supports customizable narration and adaptive learning experiences for children through a gamified, cartoon-style interface. | TypeScript, JavaScript, React, HTML, CSS, ChatGPT API, Gemini API, ElevenLabs API |
+| **WeatherYield Intelligence** | Machine learning project using weather data to predict outcomes, with SHAP analysis to interpret model predictions and explain key drivers. | XGBoost, Databricks, SHAP |
+| [**Gridiron Vision**](https://github.com/andreprasetya330/gridiron-vision) | AI-powered American football film analysis. Converts player detections into field-coordinate tracking data to classify defensive coverage, identify pre-snap tells and disguise, and generate evidence-backed scouting reports using models trained on NFL Big Data Bowl tracking data. | Python, PyTorch, Roboflow, scikit-learn, FastAPI, React |
 
 ---
 
 ### 💼 Experience
 
-**Software Engineering Intern** · <!-- TODO: company name --> Biometric technology firm
-Built backend services with Java Spring Boot and NATS messaging. <!-- TODO: add 1-2 concrete outcomes, ideally with a number -->
+**Software Engineering Intern** · Biometric technology firm
+
+Built backend services using Java Spring Boot and NATS messaging.
 
 **Business Impact Group (BIG)** · University of Washington
-Student consulting program working on real client engagements.
+
+Member of a student consulting program working on real client engagements.
 
 ---
 
@@ -63,7 +65,7 @@ Student consulting program working on real client engagements.
   <img src="https://github.com/andreprasetya330/andreprasetya330/blob/main/github-metrics.svg" alt="GitHub metrics"/>
 </p>
 
-<!-- The image above is generated by .github/workflows/metrics.yml (lowlighter/metrics). It will 404 until the workflow has run once. -->
+<!-- This image is generated by .github/workflows/metrics.yml (lowlighter/metrics). It will 404 until the workflow has run once. -->
 
 ---
 
@@ -72,17 +74,3 @@ Student consulting program working on real client engagements.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7A57A,100:4B2E83&height=90&section=footer" width="100%" alt=""/>
-<!--
-**andreprasetya330/andreprasetya330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
