@@ -105,7 +105,7 @@ These are the documented **post-snap holdout results** on 3,253 NFL Big Data Bow
 
 ---
 
-## 📈 GitHub dashboard
+### 📊 GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreprasetya330&show_icons=true&hide_border=true&title_color=4B2E83&icon_color=B7A57A&text_color=434d58&bg_color=ffffff&rank_icon=github" alt="GitHub statistics"/>
@@ -116,8 +116,10 @@ These are the documented **post-snap holdout results** on 3,253 NFL Big Data Bow
   <img src="https://streak-stats.demolab.com?user=andreprasetya330&hide_border=true&ring=4B2E83&fire=B7A57A&currStreakLabel=4B2E83&sideLabels=434d58&dates=777777" alt="GitHub contribution streak"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andreprasetya330&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies"/>
+  <sub>Stats powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> and <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a>.</sub>
 </p>
 
 ---
